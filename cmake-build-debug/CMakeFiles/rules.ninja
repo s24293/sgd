@@ -132,7 +132,7 @@ rule C_STATIC_LIBRARY_LINKER__SDL2_test_Debug
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\JetBrains\CLion 2024.1.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\matey\Desktop\untitled -BC:\Users\matey\Desktop\untitled\cmake-build-debug
+  command = "C:\Program Files\JetBrains\CLion 2024.1.3\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SC:\Users\matey\Desktop\untitled\sgd -BC:\Users\matey\Desktop\untitled\sgd\cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

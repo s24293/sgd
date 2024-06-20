@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/matey/Desktop/untitled/vendored/SDL
+# Install script for directory: C:/Users/matey/Desktop/untitled/sgd/vendored/SDL
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
