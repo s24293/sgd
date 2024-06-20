@@ -6,7 +6,7 @@
 #include <vector>
 
 #define TILE_SIZE 64
-SDL_Rect camera = {0, 0, 800, 600};
+
 // Struktura przechowująca mapę gry
 struct game_map_t {
     int width, height;
